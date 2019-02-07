@@ -1,0 +1,11 @@
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\bin\Debug\3-tierArchitecture.exe.config
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\bin\Debug\3-tierArchitecture.exe
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\bin\Debug\3-tierArchitecture.pdb
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\3-tierArchitecture.csprojResolveAssemblyReference.cache
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\_3_tierArchitecture.Properties.Resources.resources
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\3-tierArchitecture.csproj.GenerateResource.cache
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\3-tierArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\3-tierArchitecture.exe
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\3-tierArchitecture.pdb
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\Register1.Form2.resources
+C:\Users\Suresh.vakkalakula\Desktop\Forms\3-tierArchitecture\3-tierArchitecture\obj\Debug\PL.Form1.resources
